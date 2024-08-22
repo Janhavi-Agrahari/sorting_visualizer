@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Sorting_Visualizer-master/src"/>
+	<classpathentry kind="lib" path="Sorting_Visualizer-master/out/artifacts/Sorting_Algorithm_Visualizer_Project___Final_jar/Sorting Algorithm Visualizer Project - Final.jar"/>
+	<classpathentry kind="output" path="Sorting_Visualizer-master/out/production/Sorting Algorithm Visualizer Project - Final"/>
+</classpath>
